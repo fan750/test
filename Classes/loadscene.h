@@ -1,5 +1,5 @@
-#ifndef __Farmer_Node_H__
-#define __Farmer_Node_H__
+#ifndef __LOAD_Node_H__
+#define __LOAD_Node_H__
 #include"cocos2d.h"
 class loadding:public cocos2d::Layer {
 public:

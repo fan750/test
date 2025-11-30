@@ -1,4 +1,4 @@
-#include"Farmer.h"
+#include"loadscene.h"
 #include"Home.h"
 bool loadding::init() {
 	if (!Layer::init()) {

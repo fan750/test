@@ -22,9 +22,9 @@
  THE SOFTWARE.
  ****************************************************************************/
 
-#include "loaddingwindow.h"
+#include "HelloWorld.h"
 #include "SimpleAudioEngine.h"
-#include"Farmer.h"
+#include"loadscene.h"
 
 USING_NS_CC;
 USING_NS_CC;

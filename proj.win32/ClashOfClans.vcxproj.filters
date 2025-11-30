@@ -18,10 +18,10 @@
     <ClCompile Include="..\Classes\AppDelegate.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="..\Classes\loaddingwindow.cpp">
+    <ClCompile Include="..\Classes\HelloWorld.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="..\Classes\Farmer.cpp">
+    <ClCompile Include="..\Classes\loadscene.cpp">
       <Filter>src</Filter>
     </ClCompile>
     <ClCompile Include="Home.cpp">
@@ -35,10 +35,10 @@
     <ClInclude Include="..\Classes\AppDelegate.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\loaddingwindow.h">
+    <ClInclude Include="..\Classes\HelloWorld.h">
       <Filter>src</Filter>
     </ClInclude>
-    <ClInclude Include="..\Classes\Farmer.h">
+    <ClInclude Include="..\Classes\loadscene.h">
       <Filter>src</Filter>
     </ClInclude>
     <ClInclude Include="Home.h">
